@@ -44,7 +44,54 @@
  &lt;/h1&gt;
 
 &lt;p&gt;As a software engineer at the center of this transformation vortex, you must clearly recognize: &lt;strong&gt;Code is becoming cheap, while &amp;ldquo;logic for solving problems&amp;rdquo; is becoming expensive.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;If you are still obsessed with hand-writing every line of &lt;code&gt;if-else&lt;/code&gt; or纠结于某个框架的语法糖, you will soon become the &amp;ldquo;typist&amp;rdquo; of the new era. Evolving into an &lt;strong&gt;Agent Engineer (Agent Orchestrator)&lt;/strong&gt; is essentially a leap from the &lt;strong&gt;execution layer&lt;/strong&gt; to the &lt;strong&gt;scheduling layer&lt;/strong&gt;—from &amp;ldquo;how to write (How)&amp;rdquo; to &amp;ldquo;what to do (What)&amp;rdquo; and &amp;ldquo;how to orchestrate logic flows (Flow).&amp;rdquo;&lt;/p&gt;</description></item><item><title>Chapter 2: Why This Transformation is Needed</title><link>/en/part1/02-why-iose/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part1/02-why-iose/</guid><description>&lt;h1&gt;
+&lt;p&gt;If you are still obsessed with hand-writing every line of &lt;code&gt;if-else&lt;/code&gt; or纠结于某个框架的语法糖, you will soon become the &amp;ldquo;typist&amp;rdquo; of the new era. Evolving into an &lt;strong&gt;Agent Engineer (Agent Orchestrator)&lt;/strong&gt; is essentially a leap from the &lt;strong&gt;execution layer&lt;/strong&gt; to the &lt;strong&gt;scheduling layer&lt;/strong&gt;—from &amp;ldquo;how to write (How)&amp;rdquo; to &amp;ldquo;what to do (What)&amp;rdquo; and &amp;ldquo;how to orchestrate logic flows (Flow).&amp;rdquo;&lt;/p&gt;</description></item><item><title>Chapter 11: The Evolution of Product Managers</title><link>/en/part3/11-product-manager-evolution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part3/11-product-manager-evolution/</guid><description>&lt;h1&gt;
+ Chapter 11: The Evolution of Product Managers
+ &lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In the Agent era, the value of product managers is no longer &amp;ldquo;communication and coordination,&amp;rdquo; but &amp;ldquo;defining the right problem.&amp;rdquo; If Agent Engineers are the fleet navigators, then product managers are the chart makers—even a pixel off on the chart, and the fleet might hit an iceberg.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The core transformation for product managers is evolving from &amp;ldquo;requirement translators&amp;rdquo; to &amp;ldquo;business logic architects,&amp;rdquo; shifting from writing PRD &amp;ldquo;essays&amp;rdquo; to &amp;ldquo;building models&amp;rdquo; with BDD language. When requirements are expressed through structured Given-When-Then format, Agents can precisely understand business rules and transform vague market needs into executable software systems.&lt;/p&gt;</description></item><item><title>Chapter 12: Transformation of Test Engineers and Operations Engineers</title><link>/en/part3/12-test-ops-sre-transformation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part3/12-test-ops-sre-transformation/</guid><description>&lt;h1&gt;
+ Chapter 12: Transformation of Test Engineers and Operations Engineers
+ &lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Traditional &amp;ldquo;bug finders&amp;rdquo; and &amp;ldquo;firefighters&amp;rdquo; are disappearing, but &amp;ldquo;quality architects&amp;rdquo; and &amp;ldquo;reliability foundation designers&amp;rdquo; are becoming more central. When AI generates code ten times faster, who ensures this code is worth delivering to production?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In Chapter 7, we explored the transformation of team organizational forms—the evolution from traditional functional teams to atomic teams. When atomic teams become the core unit of business delivery, the roles of test engineers and operations engineers also undergo qualitative changes. They are no longer direct executors of specific business, but builders of &lt;strong&gt;capability foundations&lt;/strong&gt; that enable atomic teams to be self-sufficient.&lt;/p&gt;</description></item><item><title>Chapter 13: Legacy System Migration Strategy</title><link>/en/part3/13-legacy-migration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part3/13-legacy-migration/</guid><description>&lt;h1&gt;
+ Chapter 13: Legacy System Migration Strategy
+ &lt;/h1&gt;
+
+
+
+
+
+ &lt;h2 id="1-challenges-of-legacy-systems"&gt;
+ 1 Challenges of Legacy Systems
+ &lt;/h2&gt;
+
+&lt;p&gt;Legacy systems are problems faced by almost all mature enterprises:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Massive code&lt;/strong&gt;: Tens of thousands or even hundreds of thousands of lines of code, with complex and intricate logic&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Missing documentation&lt;/strong&gt;: Original architecture documents are long outdated or never existed&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Knowledge loss&lt;/strong&gt;: Original developers have left, tacit knowledge is lost&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Risk sensitivity&lt;/strong&gt;: Systems carry core business, afraid to make changes lightly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Under the Agent-oriented paradigm, legacy system challenges are even more prominent:&lt;/p&gt;</description></item><item><title>Chapter 14: Capture and Inheritance of Tacit Knowledge</title><link>/en/part3/14-tacit-knowledge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part3/14-tacit-knowledge/</guid><description>&lt;h1&gt;
+ Chapter 14: Capture and Inheritance of Tacit Knowledge
+ &lt;/h1&gt;
+
+
+
+
+
+ &lt;h2 id="1-why-tacit-knowledge-is-aoses-biggest-challenge"&gt;
+ 1 Why Tacit Knowledge is AOSE&amp;rsquo;s Biggest Challenge
+ &lt;/h2&gt;
+
+&lt;p&gt;Tacit knowledge is the most hidden and destructive challenge facing Agent-Oriented Software Engineering. It is usually &amp;ldquo;embodied and contextual,&amp;rdquo; existing in experts&amp;rsquo; intuition, informal conversations, and decades of legacy system logic, and difficult to directly extract through traditional documentation or code review.&lt;/p&gt;
+&lt;p&gt;In the era where AI Agents become execution subjects, lack of tacit knowledge leads to disastrous consequences. Imagine: a senior engineer leaves, and the knowledge in their mind about &amp;ldquo;why this field is named this way,&amp;rdquo; &amp;ldquo;this interface must delay 500 milliseconds in specific cases to avoid race conditions&amp;rdquo; disappears with them. When Agents face related requirements, they generate code based on general best practices, unaware of these hidden constraints—resulting in system crashes in production environments.&lt;/p&gt;</description></item><item><title>Chapter 2: Why This Transformation is Needed</title><link>/en/part1/02-why-iose/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part1/02-why-iose/</guid><description>&lt;h1&gt;
  Chapter 2: Why This Transformation is Needed
  &lt;/h1&gt;
 
