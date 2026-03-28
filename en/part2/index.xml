@@ -28,7 +28,22 @@
  1 Why Processes Must Be Reconstructed
  &lt;/h2&gt;
 
-&lt;p&gt;When AI Agents evolve from auxiliary tools to execution subjects, the fundamental contradiction of software development also shifts. The core pain point of traditional agile processes lies in &amp;ldquo;communication costs in collaboration&amp;rdquo;—requirements pass from business to product managers, then to technical teams, with information loss and understanding deviation at every step. In the Agent-Oriented paradigm, this contradiction transforms into a problem of &amp;ldquo;requirements precision and consistency&amp;rdquo;—as long as requirements can be clearly and unambiguously expressed, AI Agents can faithfully translate it into runnable software, with communication costs almost reduced to zero.&lt;/p&gt;</description></item><item><title>Chapter 7: Documentation Evolution</title><link>/en/part2/07-documentation-evolution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part2/07-documentation-evolution/</guid><description>&lt;h1&gt;
+&lt;p&gt;When AI Agents evolve from auxiliary tools to execution subjects, the fundamental contradiction of software development also shifts. The core pain point of traditional agile processes lies in &amp;ldquo;communication costs in collaboration&amp;rdquo;—requirements pass from business to product managers, then to technical teams, with information loss and understanding deviation at every step. In the Agent-Oriented paradigm, this contradiction transforms into a problem of &amp;ldquo;requirements precision and consistency&amp;rdquo;—as long as requirements can be clearly and unambiguously expressed, AI Agents can faithfully translate it into runnable software, with communication costs almost reduced to zero.&lt;/p&gt;</description></item><item><title>Chapter 6: Team Structure Evolution</title><link>/en/part2/06-team-transformation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part2/06-team-transformation/</guid><description>&lt;h1&gt;
+ Chapter 6: From Functional Teams to Atomic Teams
+ &lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;When Agents become the primary executors of software production, traditional &amp;ldquo;siloed&amp;rdquo; organizational structures become the biggest obstacle to efficiency. The key to transformation lies in redefining the boundaries of &amp;ldquo;teams&amp;rdquo;—from functional division to mission-driven atomic teams.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+ &lt;h2 id="1-the-inevitable-decline-of-functional-division"&gt;
+ 1 The Inevitable Decline of Functional Division
+ &lt;/h2&gt;
+
+&lt;p&gt;Traditional software organizations typically divide teams by function: Product Managers write PRDs, Designers create prototypes, Frontend Developers handle UI, Backend Developers build APIs, Testers ensure quality, and Operations manage deployment. This assembly-line model was designed to maximize efficiency through specialization—but it crumbles in the Agent era.&lt;/p&gt;</description></item><item><title>Chapter 7: Documentation Evolution</title><link>/en/part2/07-documentation-evolution/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part2/07-documentation-evolution/</guid><description>&lt;h1&gt;
  Chapter 7: Documentation Evolution
  &lt;/h1&gt;
 
