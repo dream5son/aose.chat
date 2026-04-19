@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Part4s on Agent-Oriented Software Engineering</title><link>/en/part4/</link><description>Recent content in Part4s on Agent-Oriented Software Engineering</description><generator>Hugo</generator><language>en</language><atom:link href="/en/part4/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Part4s on Agent-Oriented Software Engineering</title><link>/en/part4/</link><description>Recent content in Part4s on Agent-Oriented Software Engineering</description><generator>Hugo</generator><language>en</language><atom:link href="/en/part4/index.xml" rel="self" type="application/rss+xml"/><item><title>Chapter 15: Entrepreneurial Opportunities in the New Software Engineering Landscape</title><link>/en/part4/15-startup-opportunities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part4/15-startup-opportunities/</guid><description>&lt;h1&gt;
+ Chapter 15: Entrepreneurial Opportunities in the New Software Engineering Landscape
+ &lt;/h1&gt;
+
+&lt;p&gt;In the wave of rapid advancements in Large Language Models (LLMs) and generative AI, software engineering is undergoing a paradigm shift from &amp;ldquo;assisted coding&amp;rdquo; to &amp;ldquo;agent collaboration.&amp;rdquo; Intelligent programming tools like Cursor, Windsurf, and Claude Code are not only accelerating code generation but fundamentally redefining the production relations and value chains of software engineering.&lt;/p&gt;
+&lt;p&gt;As AI Agents demonstrate capabilities surpassing individual human efforts in understanding, planning, and executing complex engineering tasks, the traditional Software Development Life Cycle (SDLC) is being reshaped into an agent-centric collaborative model. This profound transformation heralds a massive wave of entrepreneurial opportunities in the software engineering domain.&lt;/p&gt;</description></item><item><title>Chapter 16: Reflections and Warnings from 2050</title><link>/en/part4/16-future-reflection/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part4/16-future-reflection/</guid><description>&lt;h1&gt;
+ Chapter 16: Reflections and Warnings from 2050
+ &lt;/h1&gt;
+
+
+
+
+
+ &lt;h2 id="1-a-letter-from-the-future"&gt;
+ 1 A Letter from the Future
+ &lt;/h2&gt;
+
+&lt;p&gt;As a software historian writing from 2050, I am filled with emotion as I review your dialogues on &amp;ldquo;Agent-Oriented Software Engineering.&amp;rdquo; Over these 25 years, many of your visions have been realized, many concerns resolved, but some unforeseen challenges have become core issues for our generation.&lt;/p&gt;
+&lt;p&gt;Standing in the future, I want to tell you that as you move toward agent-oriented software engineering, several dimensions require earlier and deeper attention beyond the technical paradigm shifts you have thoroughly explored.&lt;/p&gt;</description></item><item><title>Chapter 17: Books That Will Retain Value in the Future</title><link>/en/part4/17-future-value-books/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/part4/17-future-value-books/</guid><description>&lt;h1&gt;
+ Chapter 17: Books That Will Retain Value in the Future
+ &lt;/h1&gt;
+
+&lt;p&gt;In an era where code-writing authority gradually transfers to Agents, the knowledge landscape is experiencing an unprecedented &amp;ldquo;polarization&amp;rdquo;: one category of knowledge about &amp;ldquo;concrete implementation&amp;rdquo; is rapidly depreciating, while another about &amp;ldquo;fundamental principles&amp;rdquo; becomes increasingly precious due to its irreplaceability.&lt;/p&gt;
+&lt;hr&gt;
+
+
+
+
+ &lt;h2 id="1-the-physical-laws-of-architecture-and-systems"&gt;
+ 1 The &amp;ldquo;Physical Laws&amp;rdquo; of Architecture and Systems
+ &lt;/h2&gt;
+
+&lt;p&gt;Even when Agents generate code, programs must run on physical servers, constrained by distributed systems&amp;rsquo; objective laws. Understanding these laws is the foundation for high-level decision-making.&lt;/p&gt;</description></item></channel></rss>
